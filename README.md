@@ -4,7 +4,7 @@
 
 ## Descrição
 
-<p> Clone da interface da Netflix feito no curso da <a href="https://web.dio.me/browse"> DIO </a> somado com meus conhecimentos</p>
+<p> Clone da interface da Netflix feito no curso da <a target="_blank" href="https://web.dio.me/browse"> DIO </a> somado com meus conhecimentos</p>
 
 ## Linguagens Utilizadas
 - HTML
