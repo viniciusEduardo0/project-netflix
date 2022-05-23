@@ -1,0 +1,221 @@
+@media screen and (max-width:2560px){
+  html{
+    font-size: 100%;
+  }
+
+
+  .serie-principal{
+    padding-top: 6rem;
+  }
+  
+  .logo-serie {
+    width: 40%;
+  }
+
+  .descricao{
+    width: 60%;
+  }
+
+  #series {
+    margin-top: 2rem;
+  }
+}
+
+@media screen and (max-width:2300px){
+  html{
+    font-size: 62.5%;
+  }
+
+}
+
+@media screen and (max-width:2000px){
+  .logo-serie {
+    width: 35%;
+  }
+
+}
+
+
+
+@media screen and (max-width:1440px){
+  html{
+    font-size: 62.5%;
+  }
+  
+  .serie-principal{
+    padding-top: 8rem;
+  }
+  
+  .logo-serie {
+    width: 40% !important;
+  }
+
+  #series {
+    margin-top: 4rem;
+  }
+}
+
+
+
+
+@media screen and (max-width:1024px){
+  .serie-principal{
+    padding-top: 6rem;
+  }
+  
+  .logo-serie {
+    width: 50% !important;
+  }
+
+  #series {
+    margin-top: 7rem;
+  }
+}
+
+
+@media screen and (max-width:1000px){
+
+  .serie-principal{
+    padding-top: 5rem;
+  }
+  
+  .logo-serie {
+    width: 40% !important;
+  }
+
+  #series {
+    margin-top: 10rem;
+  }
+
+  .descricao{
+    width:50%;
+  }
+}
+
+@media screen and (max-width:950px){
+  .lista4{
+   display:none;
+  }
+
+  .box2 .menu2  {
+    display: flex;
+    flex-direction: row;
+  } 
+ 
+ }
+
+
+@media screen and (max-width:768px){
+  .serie-principal{
+    padding-top: 9rem;
+  }
+  
+  .logo-serie{
+    width: 50% !important;
+  }
+
+  
+  #series {
+    margin-top: 4rem;
+  }
+  
+  .box2 .menu2  {
+   display: flex;
+   flex-direction: row;
+ } 
+  .subtitle{
+   margin-top: 1.4rem;
+ }
+
+ .copy, .code, .lists, .socials, .carrossel-filmes, .container{
+   margin-left: 1rem;
+ }
+}
+
+@media screen and (max-width:767px){
+  .lista3{
+    display:none;
+   }
+}
+
+@media screen and (max-width:700px){
+
+   .botao{
+    margin-top: .5rem;
+    width: 30rem;
+    height: 6rem;
+  }
+
+  .descricao{
+    display: none;
+  }
+}
+
+
+
+@media screen and (max-width:530px){
+  .box2{
+    display: none;
+  }
+}
+
+
+@media screen and (max-width:425px){
+  html{
+    font-size: 50%;
+  }
+  
+  
+  .logo-serie{
+    width: 100% !important;
+  }
+
+  .serie-principal{
+    width: 100%;
+    max-width: 425px;
+  }
+
+  .botoes{
+    margin-block: 5rem;
+  }
+
+  .copy, .code, .lists, .socials, .carrossel-filmes, .container{
+    margin-left: 0.5rem;
+  }
+
+  .container .box1{
+    justify-content: space-around;
+  }
+}
+
+
+@media screen and (max-width:375px){
+  .logo-serie{
+    width: 100% !important;
+  }
+}
+
+@media screen and (max-width:360px){
+  html{
+    font-size: 45%;
+  }
+}
+
+
+@media screen and (max-width:320px){
+  html{
+    font-size: 45%;
+  
+  }
+
+  .logo{
+    margin-right: 2rem;
+  }
+
+  header nav a{
+    margin-right: 2rem;
+  }
+  .botoes{
+    margin-top: 4rem;
+  }
+}
