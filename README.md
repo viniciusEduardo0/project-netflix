@@ -13,10 +13,10 @@
 
 ## Layout 
 ### Desktop:
-<img src="src/img/desktopNet.PNG">
+<img src="../img/desktopNet.PNG">
 
 
 <hr>
 
 ### Mobile:
-<img src="src/img/mobileNet.PNG">
+<img src="../img/mobileNet.PNG">
