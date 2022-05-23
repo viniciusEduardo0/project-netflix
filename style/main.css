@@ -80,7 +80,7 @@ header nav a:hover{
 
 .serie-principal{
   font-size: 1.6rem;
-  background: linear-gradient( rgba(0,0,0,.50), rgba(0,0,0,.50) 100%), url('/img/capa-70.jpg');
+  background: linear-gradient( rgba(0,0,0,.50), rgba(0,0,0,.50) 100%), url('img/capa-70.jpg');
   height: 61rem;
   background-size: cover;
   display: flex;
