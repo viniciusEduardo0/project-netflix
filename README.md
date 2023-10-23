@@ -1,6 +1,6 @@
 # Clone Netflix
 
-<p>Link do projeto <a href="https://viniciuseduardo0.github.io/project-netflix/">aqui</a></p>
+<p>Link do projeto <a target="_blank" href="https://viniciuseduardo0.github.io/project-netflix/">aqui</a></p>
 
 ## Descrição
 
